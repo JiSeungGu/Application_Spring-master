@@ -1,0 +1,10 @@
+ oauth2:
+    client:
+      client-id: foo
+      client-secret : bar
+  spring:
+    security:
+      user:
+        name: user
+        password: test
+
